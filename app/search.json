@@ -2,7 +2,7 @@
 ---
 
 [
-  {% for tool in site.archive_files %}
+  {% for tool in site.tools %}
     {
 
       "title"    : "{{ tool.title | escape }}",
