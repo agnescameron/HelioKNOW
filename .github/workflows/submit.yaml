@@ -8,7 +8,7 @@ on:
 
 env:
   id: '1LQKMaOQlC_flskr2-9Src7RFtMRPrICCk20qYX8X2OY'
-  remote: 'agnescameron/HelioKNOW2'
+  remote: 'agnescameron/HelioKNOW'
   branch: main
 
 jobs:
