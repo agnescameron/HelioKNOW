@@ -1,6 +1,5 @@
 ---
 layout: default
-layout: default
 description: "Collaborative data science tool for high-latitude geospace observations\n\n
   AMGeO is a collaborative data science platform for the geospace science community
   for bringing together a diverse set of heterogeneous geospace observations from
