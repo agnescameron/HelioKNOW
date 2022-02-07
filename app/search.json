@@ -2,15 +2,15 @@
 ---
 
 [
-  {% for dataset in site.datasets %}
+  {% for tool in site.archive_files %}
     {
 
-      "title"    : "{{ dataset.title | escape }}",
-      "url"      : "{{ site.baseurl }}{{ dataset.url }}",
-      "category" : "{{ dataset.category }}",
-      "tags"     : "{{ dataset.tags | join: ', ' }}",
-      "date"     : "{{ dataset.date }}",
-      "content"  : "{{ dataset.content | strip_html | strip_newlines }}"
+      "title"    : "{{ tool.title | escape }}",
+      "url"      : "{{ site.baseurl }}{{ tool.url }}",
+      "category" : "{{ tool.category }}",
+      "tags"     : "{{ tool.tags | join: ', ' }}",
+      "date"     : "{{ tool.date }}",
+      "content"  : "{{ tool.content | strip_html | strip_newlines }}"
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
