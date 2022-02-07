@@ -12,18 +12,8 @@ collections_dir: index
 emptyArray: []
 
 collections:
-  datasets:
-    output: true
   tools:
     output: true
-  collections:
-    output: true
-    order:
-      - intro.md
-      - lens.md
-      - publications.md
-      - google_patents.md
-      - nber.md
 
 include:
   - _redirects

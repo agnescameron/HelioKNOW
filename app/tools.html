@@ -6,7 +6,7 @@ layout: list
 <p>This </p>
 
 <ul class=indexList>
-{% for tool in site.archive_files %}
+{% for tool in site.tools %}
 	<li onclick="location.href='{{ tool.url }}';">
 		<div class="itemThumb">
 			{% if tool.thumbnail_url %}
