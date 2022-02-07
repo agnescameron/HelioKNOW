@@ -1,0 +1,73 @@
+name: pull_data
+
+on:
+  schedule:
+  - cron: "*/2 * * * *"
+env:
+  id: '1LQKMaOQlC_flskr2-9Src7RFtMRPrICCk20qYX8X2OY'
+  remote: 'agnescameron/HelioKNOW2'
+  branch: main
+jobs:
+  pull_sheet:
+    runs-on: ubuntu-latest
+    name: Pulling regular updates from the HelioKNOW knowledge graph
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v2
+        with:
+          ssh-key: "${{ secrets.COMMIT_KEY }}"
+
+      - name: Install Python 3
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.6
+
+      - name: set up Python environment
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install -v gspread==4.0.1
+          python3 -m pip install gspread_dataframe
+          python3 -m pip install pandas
+          python3 -m pip install Pillow
+          python3 -m pip install python-frontmatter
+          python3 -m pip install six
+
+      - name: Pull GSheet data and generate markdown
+        id: 'sheet_to_csv'
+        env:
+          INPUT_CREDS: ${{ secrets.GSHEET_CREDENTIALS }}
+          INPUT_SHEETS: |
+            [
+              { "id": "${{ env.id }}", "title": "Tools", "directory": "archive_files" }
+            ]
+          INPUT_SHEET_TITLE: 'HelioKNOW_tools'
+          INPUT_TEMPDIR: 'index_archive'
+        run: python3 scripts/pull_data.py
+
+      - name: Check if files changed
+        id: check_diff
+        run: |
+          echo "list changed files:"
+          git diff --name-only
+          
+          echo "check paths of new and changed files:"
+          git diff --name-only > files.txt
+          git status --porcelain | grep -e '^??' | sed -e 's/^?? //g' >> files.txt
+          while IFS= read -r file
+          do
+            echo "$file"
+            if [[ $file == *.csv ]] || [[ $file == *.md ]]; then
+              echo "updated files"
+              echo "::set-output name=commit_files::true"
+            fi
+          done < files.txt
+
+      - name: Commit files
+        if: steps.check_diff.outputs.commit_files == 'true'
+        run: |
+            git pull
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add index_archive archive_files app/assets/thumbnails
+            git commit -m "generated files based on google sheet"
+            git push
