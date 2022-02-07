@@ -42,7 +42,7 @@ jobs:
           INPUT_CREDS: ${{ secrets.GSHEET_CREDENTIALS }}
           INPUT_SHEETS: |
             [
-              { "id": "${{ env.id }}", "title": "Tools", "directory": "archive_files" }
+              { "id": "${{ env.id }}", "title": "Tools", "directory": "tools" }
             ]
           INPUT_SHEET_TITLE: 'HelioKNOW_tools'
           INPUT_TEMPDIR: 'index_archive'
@@ -72,6 +72,6 @@ jobs:
             git pull
             git config user.name github-actions
             git config user.email github-actions@github.com
-            git add index_archive archive_files app/assets/thumbnails
+            git add index_archive tools app/assets/thumbnails
             git commit -m "generated files based on google sheet"
             git push

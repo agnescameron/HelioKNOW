@@ -3,7 +3,7 @@ name: compile_site
 on:
   push:
     paths:
-      - 'archive_files/*.md'
+      - 'tools/*.md'
     branches:
       - main
 
@@ -25,7 +25,7 @@ jobs:
       - name: Copy files to site and add layout
         env: 
           # need to read in as string; GA doesn't support array assignment
-          INPUT_FOLDERS: "archive_files;"
+          INPUT_FOLDERS: "tools;"
         run: |
             IFS=';' read -ra input_array <<< "${{ env.INPUT_FOLDERS }}"
             for dir in "${input_array[@]}"; do
