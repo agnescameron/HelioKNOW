@@ -1,7 +1,6 @@
 name: submit_tool
 
 on:
-  push
   pull_request_target:
     types: [opened, reopened, edited, review_requested]
     paths:
