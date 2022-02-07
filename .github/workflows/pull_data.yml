@@ -2,7 +2,7 @@ name: pull_data
 
 on:
   schedule:
-  - cron: "*/2 * * * *"
+  - cron: "* * * * *"
   push:
     branches:
       - main
