@@ -14,6 +14,7 @@ notes: 'Built for time series
   JupyterBook (instructional/educational resources?)'
 shortname: swarm_vires
 timestamp: Fri, 04 Feb 2022 17:07:21 GMT
+title: Swarm VirES (Virtual environments for Earth observation Scientists)
 tool/software: Swarm VirES (Virtual environments for Earth observation Scientists)
 uuid: f17fe315-f2cb-48f5-8d42-bf6fa7306bc6
 website_link: https://vires.services/

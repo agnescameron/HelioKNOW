@@ -7,11 +7,12 @@ description: An interface built in 2008 to provide a more integrated interface t
   offering various functionalities for various data sets
 notes: 'A database compiling many observing platforms
 
-
-  Programmatic access (through nasaomnireader)'
+  '
+programmatic_access: through nano
 relationships_to_other_tools: Visualization web service for solar wind SPDF data
 shortname: omniweb
-timestamp: Fri, 11 Feb 2022 13:52:12 GMT
+timestamp: Fri, 11 Feb 2022 14:04:01 GMT
+title: NASA OMNIWeb
 tool/software: NASA OMNIWeb
 type: database
 uuid: 5ed71d7c-d4b6-4a05-8efd-20607b45b256

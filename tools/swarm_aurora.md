@@ -9,6 +9,7 @@ description: 'The Swarm-Aurora project was designed to facilitated and drive the
   '
 shortname: swarm_aurora
 timestamp: Fri, 04 Feb 2022 17:07:24 GMT
+title: Swarm Aurora
 tool/software: Swarm Aurora
 uuid: 820e4cbd-b6d4-49c0-9fe5-2ddcc061004c
 website_link: https://swarm-aurora.com/

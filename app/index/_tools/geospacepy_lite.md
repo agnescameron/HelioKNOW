@@ -11,6 +11,7 @@ description: 'Geospacepy-lite is a toolbox of loosely-related modules which were
 poc: Liam Kilcommons
 shortname: geospacepy_lite
 timestamp: Fri, 04 Feb 2022 17:09:02 GMT
+title: geospacepy-lite
 tool/software: geospacepy-lite
 uuid: 2093d23c-13b7-4d1e-9c54-a0893f926b66
 website_link: https://geospacepy-lite.readthedocs.io/en/latest/

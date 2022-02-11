@@ -23,6 +23,7 @@ relationships_to_other_tools: 'Provides access to SuperMAG and SuperDARN data an
   datetime'
 shortname: amgeo
 timestamp: Fri, 11 Feb 2022 13:53:29 GMT
+title: AMGeO
 tool/software: AMGeO
 type: access tool
 uuid: 2611ac23-0c52-4495-8010-3392f25ec53f
