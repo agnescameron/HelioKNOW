@@ -9,6 +9,7 @@ description: 'SuperMAG is a worldwide collaboration of organizations and nationa
 notes: 'Programmatic access (through Python client: https://supermag.jhuapl.edu/mag/?tab=api&fidelity=low&start=2001-01-01T00%3A00%3A00.000Z&interval=23%3A59#pythonClientDocumentationSection)'
 programmatic_access: through [Python client](https://supermag.jhuapl.edu/mag/?tab=api&fidelity=low&start=2001-01-01T00%3A00%3A00.000Z&interval=23%3A59#pythonClientDocumentationSection)
 shortname: super_magnetometer
+thumbnail_url: https://supermag.jhuapl.edu/lib/img/supermag-color-white-64.png
 timestamp: Fri, 11 Feb 2022 14:05:03 GMT
 title: Super Magnetometer Initiative
 tool/software: Super Magnetometer Initiative
