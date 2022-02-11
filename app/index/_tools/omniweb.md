@@ -12,6 +12,7 @@ notes: 'A database compiling many observing platforms
 relationships_to_other_tools: Visualization web service for solar wind SPDF data
 shortname: omniweb
 timestamp: Fri, 11 Feb 2022 13:52:12 GMT
+title: NASA OMNIWeb
 tool/software: NASA OMNIWeb
 type: database
 uuid: 5ed71d7c-d4b6-4a05-8efd-20607b45b256
