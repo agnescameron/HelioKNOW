@@ -11,9 +11,10 @@ description: 'Space Physics Data Facility (SPDF) is the NASA active and permanen
 notes: 'A database compiling many observing platforms
 
   '
+programmatic_access: 'yes'
 relationships_to_other_tools: Relationship to CDAWeb and OMNIWeb?
 shortname: spft
-timestamp: Fri, 11 Feb 2022 13:51:58 GMT
+timestamp: Fri, 11 Feb 2022 14:04:02 GMT
 title: "NASA \nSpace Physics Data Facility (SPDF)"
 tool/software: "NASA \nSpace Physics Data Facility (SPDF)"
 type: database
