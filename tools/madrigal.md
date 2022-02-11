@@ -5,12 +5,10 @@ description: Madrigal is an upper atmospheric science database used by groups th
   of upper atmospheric science instruments. Data at each Madrigal site is locally
   controlled and can be updated at any time, but shared metadata between Madrigal
   sites allow searching of all Madrigal sites at once from any Madrigal site.
-notes: 'A database compiling many observing platforms
-
-
-  Programmatic access (through MadrigalWeb and pysatMadrigal)'
+notes: A database compiling many observing platforms
+programmatic_access: through MadrigalWeb and pysatMadrigal
 shortname: madrigal
-timestamp: Fri, 11 Feb 2022 13:52:53 GMT
+timestamp: Fri, 11 Feb 2022 14:05:43 GMT
 title: Madrigal Database
 tool/software: Madrigal Database
 type: database
