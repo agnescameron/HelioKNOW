@@ -14,9 +14,9 @@ notes: 'A database compiling many observing platforms
   '
 programmatic_access: 'yes'
 relationships_to_other_tools: Relationship to CDAWeb and OMNIWeb?
-shortname: spft
+shortname: spdf
 thumbnail_url: https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg
-timestamp: Fri, 11 Feb 2022 14:20:51 GMT
+timestamp: Fri, 11 Feb 2022 15:16:26 GMT
 title: "NASA \nSpace Physics Data Facility (SPDF)"
 tool/software: "NASA \nSpace Physics Data Facility (SPDF)"
 type: database
