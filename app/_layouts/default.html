@@ -60,16 +60,26 @@
 								<b>documentation:</b> {{ page.documentation }}
 							</p>
 						{% endif %}
+						{% if page.poc and page.poc != '' %}
+							<p>
+								<b>point of contact:</b> {{ page.poc }}
+							</p>
+						{% endif %}
 						{% if page.citation and page.citation != '' %}
 							<p>
 								<b>doi:</b> {{ page.citation }}
 							</p>
 						{% endif %}
+						{% if page.timestamp and page.timestamp != '' %}
+							<p>
+								<b>record last updated:</b> {{ page.timestamp }}
+							</p>
+						{% endif %}
 							<p><b>description:</b> {{ page.description }}</p>
 				</div>
 				<div class="pageContent">
-					<h2>Notes</h2>
 						{% if page.notes and page.notes != '' %}
+						<h2>Notes</h2>
 							<p>
 								{{ page.notes }}
 							</p>
