@@ -1,6 +1,6 @@
-# I³ Tracker for Essential Open Innovation Datasets 
+# HelioKNOW network
 
-This repository is set up to track, version, and contribute updates to the [I³ Essential Open Innovation Dataset Index](https://iiindex.org/), which consists of lists of datasets and tools relevant to Innovation Data. This index may be collaboratively edited, either by making edits to markdown files contained in this repository, or editing metadata in the [Google Sheet](https://docs.google.com/spreadsheets/d/1bdyhGrj0oNz-_qW3Rv2GNGqhZZ73rgj-DYWePLA_1Ms/edit#gid=1389884911).
+This repository is set up to track, version, and contribute updates to the [HelioKNOW Tools Index](https://iiindex.org/). This index may be collaboratively edited, either by making edits to markdown files contained in this repository, or editing metadata in the [Google Sheet](https://docs.google.com/spreadsheets/d/1LQKMaOQlC_flskr2-9Src7RFtMRPrICCk20qYX8X2OY/edit#gid=0).
 
 The repository checks the Google Sheet for changes every 5min (and will update the site if there are any), and will also re-build the site automatically when somebody makes an edit via git. The site is generated from markdown files in this repository using the static site generator Jekyll.
 
