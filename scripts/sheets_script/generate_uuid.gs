@@ -6,7 +6,7 @@
 // https://developers.google.com/apps-script/guides/triggers/events
 // https://www.fiznool.com/blog/2014/11/16/short-id-generation-in-javascript/
 
-var SHEETNAMES = ["Open_Innovation_Datasets", "Innovation_Data_Toolkit"] // change names!
+var SHEETNAMES = ["Tools"] // change names!
 var ID_COLUMN = 1;
 var ID_LENGTH = 10;
 var TIMESTAMP_COL;
@@ -22,8 +22,7 @@ function onEdit(evt) {
   var sheet = range.getSheet();
   console.log(sheet.getSheetName())
   if(!SHEETNAMES.includes(sheet.getSheetName()) ) return;
-  if(sheet.getSheetName() === "Open_Innovation_Datasets") TIMESTAMP_COL = 22 // change name and timestamp cols!
-  if(sheet.getSheetName() === "Innovation_Data_Toolkit") TIMESTAMP_COL = 14
+  if(sheet.getSheetName() === "Tools") TIMESTAMP_COL = 15 // change name and timestamp cols!
   var rangeValues = range.getValues();
 
   rangeValues.forEach(function(row,index,arr){
@@ -41,8 +40,7 @@ function onEdit(evt) {
 
       var timeRange = sheet.getRange( range.getRow() + index, TIMESTAMP_COL );
       var editCell = timeRange.getCell( 1, 1 );
-      var editVal = editCell.getValue();
-      if(editVal !== "Last Edit"){
+      if(range.getRow() !== 1){
         editCell.setValue(timeStamp);
        } 
     }
