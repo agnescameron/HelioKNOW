@@ -9,17 +9,15 @@ description: 'Space Physics Data Facility (SPDF) is the NASA active and permanen
   the SSCweb database of spacecraft orbits, the OMNIweb cross-normalized database,
   and the Common Data Format (CDF) self-describing science data format and associated
   software. '
-notes: 'Type: Database
-
-
-  A database compiling many observing platforms
+notes: 'A database compiling many observing platforms
 
 
   Programmatic access (through ??)'
 relationships_to_other_tools: Relationship to CDAWeb and OMNIWeb?
 shortname: spft
-timestamp: Mon, 07 Feb 2022 15:53:14 GMT
+timestamp: Fri, 11 Feb 2022 13:51:58 GMT
 tool/software: "NASA \nSpace Physics Data Facility (SPDF)"
+type: database
 uuid: d0f4a7ce-9732-40e9-8aac-30d816756bc0
 website_link: https://spdf.gsfc.nasa.gov/
 ---

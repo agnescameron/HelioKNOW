@@ -9,8 +9,9 @@ notes: 'Type: Access Tool'
 relationships_to_other_tools: Provides access to many of the databases and services
   in Heliophysics
 shortname: pysat
-timestamp: Fri, 04 Feb 2022 17:08:46 GMT
+timestamp: Fri, 11 Feb 2022 13:53:20 GMT
 tool/software: pySat
+type: access tool
 uuid: 19d264b0-84f4-4cc0-85ff-51a09d21c91a
 website_link: https://github.com/pysat/pysat/tree/main/pysat/
 ---
