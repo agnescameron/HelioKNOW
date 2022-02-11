@@ -22,6 +22,7 @@ notes: 'Do research with the swarm viresclient tool (viresclient is a Python pac
   Programmatic access (through viresclient)
 
   '
+programmatic_access: swarm viresclient tool
 relationships_to_other_tools: 'The VRE is an extension of VirES (Virtual environments
   for Earth observation Scientists) - a server system and a graphical web interface
   to allow easy visualisation and manipulation of Swarm products (both data and geomagnetic
@@ -34,7 +35,7 @@ relationships_to_other_tools: 'The VRE is an extension of VirES (Virtual environ
 
   Provides access to the eoPortal: https://eoportal.org/web/eoportal/home'
 shortname: swarm_vires_vre
-timestamp: Fri, 04 Feb 2022 17:07:22 GMT
+timestamp: Fri, 11 Feb 2022 14:05:27 GMT
 title: Swarm VirES Virtual Research Environment
 tool/software: Swarm VirES Virtual Research Environment
 uuid: ebee087f-f2f4-4c84-95d9-674f2c70346f
