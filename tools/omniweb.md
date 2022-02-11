@@ -10,7 +10,8 @@ notes: 'A database compiling many observing platforms
 programmatic_access: through nano
 relationships_to_other_tools: Visualization web service for solar wind SPDF data
 shortname: omniweb
-timestamp: Fri, 11 Feb 2022 14:04:01 GMT
+thumbnail_url: https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png
+timestamp: Fri, 11 Feb 2022 14:12:40 GMT
 title: NASA OMNIWeb
 tool/software: NASA OMNIWeb
 type: database
