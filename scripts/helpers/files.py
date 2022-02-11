@@ -64,14 +64,14 @@ def generate_markdown(data, directory):
 
 	new_files = []
 	for row in to_gen:
-		print("creating file for", row["tool/software"])
+		print("creating file for", row["title"])
 		new_files.append(row['uuid'])
 
 		#create title
 		if row['shortname'] and row['shortname'].strip():
 			filepath = os.path.join(directory + '/', row['shortname'] + '.md')
 		else:
-			shortname = row["tool/software"].lower().replace(' ', '_') + "_" + str(random.randrange(0,50))
+			shortname = row["title"].lower().replace(' ', '_') + "_" + str(random.randrange(0,50))
 			filepath = os.path.join(directory + '/', shortname + '.md')
 
 		#open and close file
