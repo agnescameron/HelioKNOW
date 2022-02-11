@@ -7,10 +7,11 @@ description: Tackles the problem of reproducible research code. It helps users c
 notes: 'Type: Access Tool '
 poc: Asti Bhatt
 shortname: resen
-timestamp: Fri, 04 Feb 2022 17:08:31 GMT
+timestamp: Fri, 11 Feb 2022 13:53:01 GMT
 tool/software: '
 
   REproducable Software ENvironment (Resen)'
+type: access tool
 uuid: 7e51b674-5ea3-4b37-ba93-92898d093afd
 website_link: https://ingeo.datatransport.org/home/resen
 ---

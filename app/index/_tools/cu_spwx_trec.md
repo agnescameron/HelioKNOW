@@ -9,9 +9,10 @@ notes: 'Type: Portal
   '
 poc: Jenny Knuth
 shortname: cu_spwx_trec
-timestamp: Fri, 04 Feb 2022 17:08:36 GMT
+timestamp: Fri, 11 Feb 2022 13:53:07 GMT
 tool/software: University of Colorado Boulder Space Weather Technology Research and
   Education Center (CU SpWx TREC) Data Portal
+type: portal
 uuid: 06933d1c-6908-440b-817c-bb80b8dbecfd
 website_link: https://lasp.colorado.edu/space-weather-portal/home
 ---
