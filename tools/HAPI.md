@@ -5,16 +5,14 @@ description: The Heliophysics Data Application Programmer’s Interface (HAPI) s
   ecosystem. All components are developed openly on GitHub where you will find client
   software in various languages (MATLAB, Java, IDL etc.) to access data from HAPI
   servers.
-notes: 'Type: Access tool
-
-
-  Purpose is to provide an access layer to many data sets at NASA
+notes: 'Purpose is to provide an access layer to many data sets at NASA
 
 
   '
 shortname: HAPI
-timestamp: Fri, 04 Feb 2022 17:07:25 GMT
+timestamp: Fri, 11 Feb 2022 13:52:55 GMT
 tool/software: HAPI
+type: access tool
 uuid: f2d96139-189f-4054-be3e-36a4e02872fc
 website_link: http://hapi-server.org/
 ---
