@@ -7,6 +7,9 @@ notes: 'Type: Access Tool '
 poc: Asti Bhatt
 shortname: resen
 timestamp: Fri, 11 Feb 2022 13:53:01 GMT
+title: '
+
+  REproducable Software ENvironment (Resen)'
 tool/software: '
 
   REproducable Software ENvironment (Resen)'

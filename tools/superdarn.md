@@ -16,6 +16,7 @@ description: 'SuperDARN stands for Super Dual Auroral Radar Network. The network
 notes: No programmatic access
 shortname: superdarn
 timestamp: Fri, 04 Feb 2022 17:07:20 GMT
+title: Super Dual Auroral Radar Network (SuperDARN)
 tool/software: Super Dual Auroral Radar Network (SuperDARN)
 uuid: 08d4c604-fb54-450d-87a2-ca1229cbc37a
 website_link: http://vt.superdarn.org/tiki-index.php

@@ -12,6 +12,7 @@ notes: 'A database compiling many observing platforms
 relationships_to_other_tools: Visualization web service for virtually any SPDF data
 shortname: cdaweb
 timestamp: Fri, 11 Feb 2022 13:52:23 GMT
+title: NASA Coordinated Data Analysis Web (CDAWeb)
 tool/software: NASA Coordinated Data Analysis Web (CDAWeb)
 type: database
 uuid: ecb85a68-c795-4129-bdc2-c409dbda0412
