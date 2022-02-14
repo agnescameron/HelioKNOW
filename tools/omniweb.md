@@ -9,7 +9,8 @@ notes: 'A database compiling many observing platforms
   '
 programmatic_access: through nano
 relationship_description: Visualization web service for solar wind SPDF data
-relationships: spdf
+relationships:
+- spdf
 relationships_to_other_tools: Visualization web service for solar wind SPDF data
 shortname: omniweb
 thumbnail_url: https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg

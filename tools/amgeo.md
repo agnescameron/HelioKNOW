@@ -20,7 +20,11 @@ relationship_description: 'Provides access to SuperMAG and SuperDARN data and th
 
   Data Dependencies: availability of SuperDARN and SuperMAG data for the selected
   datetime'
-relationships: supermag, superdarn, ovationpyme, geospacepy_lite
+relationships:
+- supermag
+- superdarn
+- ovationpyme
+- geospacepy_lite
 relationships_to_other_tools: 'Provides access to SuperMAG and SuperDARN data and
   the Assimilative Mapping of Ionospheric Electrodynamics (AMIE) model
 
