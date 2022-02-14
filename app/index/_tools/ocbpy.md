@@ -10,7 +10,6 @@ poc: Angeline Burrell
 shortname: ocbpy
 timestamp: Fri, 04 Feb 2022 17:09:36 GMT
 title: OCBpy
-tool/software: OCBpy
 uuid: 564e2c4c-d23e-4a7f-b06d-63f6db6165cd
 website_link: https://github.com/aburrell/ocbpy
 ---

@@ -14,7 +14,6 @@ shortname: omniweb
 thumbnail_url: https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg
 timestamp: Fri, 11 Feb 2022 14:20:56 GMT
 title: NASA OMNIWeb
-tool/software: NASA OMNIWeb
 type: database
 uuid: 5ed71d7c-d4b6-4a05-8efd-20607b45b256
 website_link: https://omniweb.gsfc.nasa.gov/

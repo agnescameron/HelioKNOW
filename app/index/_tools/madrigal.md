@@ -11,7 +11,6 @@ programmatic_access: through MadrigalWeb and pysatMadrigal
 shortname: madrigal
 timestamp: Fri, 11 Feb 2022 14:05:43 GMT
 title: Madrigal Database
-tool/software: Madrigal Database
 type: database
 uuid: ed266a86-103c-4318-94e9-ed2e6ffff30b
 website_link: http://millstonehill.haystack.mit.edu/

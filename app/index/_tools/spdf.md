@@ -1,6 +1,5 @@
 ---
 layout: default
-layout: default
 description: 'Space Physics Data Facility (SPDF) is the NASA active and permanent
   archive for non-solar heliophysics data (solar data at SDAC), per the NASA Heliophysics
   Science Data Management Policy. SPDF is a project of the Heliophysics Science Division

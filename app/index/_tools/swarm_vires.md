@@ -16,7 +16,6 @@ shortname: swarm_vires
 thumbnail_url: https://magneticearth.org/favicon.png
 timestamp: Fri, 11 Feb 2022 14:16:25 GMT
 title: Swarm VirES (Virtual environments for Earth observation Scientists)
-tool/software: Swarm VirES (Virtual environments for Earth observation Scientists)
 uuid: f17fe315-f2cb-48f5-8d42-bf6fa7306bc6
 website_link: https://vires.services/
 ---
