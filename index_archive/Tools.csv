@@ -31,7 +31,7 @@ Programmatic access (through viresclient)
 Accessed through viresclient
 
 Provides access to the eoPortal: https://eoportal.org/web/eoportal/home",,,"Fri, 11 Feb 2022 14:16:29 GMT"
-56840c97-8d84-4e97-99dd-d735f40e9e05,Swarm viresclient,swarm_vires_client,https://viresclient.readthedocs.io/en/latest/readme.html,,,viresclient is a Python package which connects to a VirES server through the WPS interface and handles product requests and downloads. This enables easy access to ESA’s Swarm mission data and models.,Access tool,,,,,,,"Fri, 11 Feb 2022 14:16:31 GMT"
+56840c97-8d84-4e97-99dd-d735f40e9e05,Swarm viresclient,swarm_vires_client,https://viresclient.readthedocs.io/en/latest/readme.html,,,viresclient is a Python package which connects to a VirES server through the WPS interface and handles product requests and downloads. This enables easy access to ESA’s Swarm mission data and models.,access tool,,,,,,,"Mon, 14 Feb 2022 17:28:27 GMT"
 820e4cbd-b6d4-49c0-9fe5-2ddcc061004c,Swarm Aurora,swarm_aurora,https://swarm-aurora.com/,,,"The Swarm-Aurora project was designed to facilitated and drive the use of Swarm in auroral science and push Swarm beyond its primary mission objective to become a key instrument in auroral science research. The primary objective of Swarm-Aurora is to build a bridge between Swarm data, the Swarm science community, and optical images of the aurora collected primarily by ground-based All-Sky Imagers (ASIs).
 ",,,,,,,,"Fri, 11 Feb 2022 14:16:33 GMT"
 be39f14b-0e5a-4b49-86fd-90dddfe94fd1,AuroraX,auroraX,https://aurorax.space/,,,Auroral data and tools for researchers and citizen scientists,,,,,,,,"Fri, 04 Feb 2022 17:07:24 GMT"
@@ -69,8 +69,8 @@ Ovation Pyme is a complete translation of the IDL (a proprietary programming lan
 1bcebe26-9235-4d85-a4be-2253697e4886,Voice Atlas,voiceatlas,https://voiceatlas.com/,,,natural language processing integration with Jupyter notebook,,,,,,,,"Fri, 04 Feb 2022 17:09:21 GMT"
 d9da1d7e-7a22-4a2f-a698-84f6afc84c73,Semantic Scholar,semantic_scholar,https://www.semanticscholar.org/,,,"A free, AI-powered research tool for scientific literature",,,,,,,,"Fri, 04 Feb 2022 17:09:21 GMT"
 4fb97d29-5d49-4695-98d6-4111eda2c930,Community Coordinated Modeling Center,ccmc,https://ccmc.gsfc.nasa.gov/,,,Resource for space weather models and related services,,,,,,,,"Fri, 04 Feb 2022 17:09:23 GMT"
-52b2afad-ecf9-4084-aa8a-92e6d241718c,Kamodo,kamodo,https://github.com/nasa/Kamodo,,,Open-source python resource for model data access,,,,,,,Katherine Garcia-Sage,"Fri, 04 Feb 2022 17:09:50 GMT"
-a7130f2d-1137-4230-8551-d9e5f691cd70,Slurm,slurm,https://github.com/PySlurm/pyslurm,,,HPC compatibility,,,,,,,,"Fri, 04 Feb 2022 17:09:41 GMT"
-f8fc988b-fc7c-41a7-abaa-4b7c7041e5b5,API Baker,api_baker,https://apibakery.com/,,?,turn a Jupyter notebook into an API,,,,,,,,"Fri, 04 Feb 2022 17:09:44 GMT"
-8340f07a-6914-4257-9e77-8bca1350e6ab,KanikAPI,kanik,?,,,build container images as a service,,,,,,,,"Fri, 04 Feb 2022 17:09:45 GMT"
-4965a1b8-11be-43e1-886d-d1eb831db276,AWS Lambda,aws_lambda,?,,,AWS Lambda can be used to run serverless tasks from a notebook,,,,,,,,"Mon, 14 Feb 2022 15:56:27 GMT"
+52b2afad-ecf9-4084-aa8a-92e6d241718c,Kamodo,kamodo,https://github.com/nasa/Kamodo,,,Open-source python resource for model data access,access tool,,,,,,Katherine Garcia-Sage,"Mon, 14 Feb 2022 17:29:48 GMT"
+a7130f2d-1137-4230-8551-d9e5f691cd70,Slurm,slurm,https://github.com/PySlurm/pyslurm,,,HPC compatibility,,,,,,,,"Mon, 14 Feb 2022 17:29:17 GMT"
+f8fc988b-fc7c-41a7-abaa-4b7c7041e5b5,API Baker,api_baker,https://apibakery.com/,,?,turn a Jupyter notebook into an API,programming tool,,,,,,,"Mon, 14 Feb 2022 17:29:27 GMT"
+8340f07a-6914-4257-9e77-8bca1350e6ab,KanikAPI,kanik,?,,,build container images as a service,programming tool,,,,,,,"Mon, 14 Feb 2022 17:29:32 GMT"
+4965a1b8-11be-43e1-886d-d1eb831db276,AWS Lambda,aws_lambda,?,,,AWS Lambda can be used to run serverless tasks from a notebook,programming tool,,,,,,,"Mon, 14 Feb 2022 17:29:32 GMT"
