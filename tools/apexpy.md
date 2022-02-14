@@ -1,5 +1,4 @@
 ---
-apexpy: apexpy
 description: This is a Python wrapper for the Apex fortran library by Emmert et al.
   [2010] [1], which allows converting between geodetic, modified apex, and quasi-dipole
   coordinates as well as getting modified apex and quasi-dipole base vectors (Richmond

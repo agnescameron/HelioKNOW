@@ -1,5 +1,4 @@
 ---
-AMPERE: AMPERE
 description: "AMPERE magnetic perturbation data and data products derived from the\
   \ Iridium constellation are \nprovided via the AMPERE Science Data Center to the\
   \ scientific community for basic research in space \nweather and magnetosphere-ionosphere\

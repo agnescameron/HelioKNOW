@@ -1,5 +1,4 @@
 ---
-API Baker: API Baker
 api_service: '?'
 description: turn a Jupyter notebook into an API
 shortname: api_baker

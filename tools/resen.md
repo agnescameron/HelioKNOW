@@ -1,5 +1,4 @@
 ---
-REproducable Software ENvironment (Resen): REproducable Software ENvironment (Resen)
 description: Tackles the problem of reproducible research code. It helps users create
   portable "buckets" containing the development environment, analysis code, and data
   (using Docker & JupyterLab). Resen comes pre-installed with community-developed

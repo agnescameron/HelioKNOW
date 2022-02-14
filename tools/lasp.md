@@ -1,6 +1,4 @@
 ---
-Laboratory for Atmospheric Physics (LASP) Data Portal: Laboratory for Atmospheric
-  Physics (LASP) Data Portal
 description: ''
 programmatic_access: through pysatSpaceWeather
 relationships_to_other_tools: Used by the CU SpWx TREC

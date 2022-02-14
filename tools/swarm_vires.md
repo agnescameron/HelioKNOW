@@ -1,6 +1,4 @@
 ---
-Swarm VirES (Virtual environments for Earth observation Scientists): Swarm VirES (Virtual
-  environments for Earth observation Scientists)
 description: 'VirES for Swarm is a highly interactive data manipulation and retrieval
   interface for the ESA Swarm constellation mission products. It includes tools for
   studying various geomagnetic models by comparing them to the Swarm satellite measurements

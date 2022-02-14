@@ -1,5 +1,4 @@
 ---
-HAPI: HAPI
 description: The Heliophysics Data Application Programmer’s Interface (HAPI) specification
   provides a common framework being adopted by many data providers across heliophysics.
   The aim is to ease sharing of data between different services and support an interoperable

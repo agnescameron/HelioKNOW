@@ -1,5 +1,4 @@
 ---
-Madrigal Database: Madrigal Database
 description: Madrigal is an upper atmospheric science database used by groups throughout
   the world. Madrigal is a robust, World Wide Web based system capable of managing
   and serving archival and real-time data, in a variety of formats, from a wide range

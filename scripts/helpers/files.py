@@ -89,7 +89,7 @@ def generate_markdown(data, directory):
 
 		if row["title"] and row["title"].strip():
 			title = re.sub('\s+',' ',row["title"]).strip() # stop the titles breaking search
-			record[title] = title
+			record["title"] = title
 
 		if row["tags"] and row["tags"].strip():
 			record["tags"] = list(map(lambda tag: tag.strip(), row["tags"].split(',')))

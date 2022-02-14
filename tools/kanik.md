@@ -1,5 +1,4 @@
 ---
-KanikAPI: KanikAPI
 description: build container images as a service
 shortname: kanik
 timestamp: Fri, 04 Feb 2022 17:09:45 GMT

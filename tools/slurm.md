@@ -1,5 +1,4 @@
 ---
-Slurm: Slurm
 description: HPC compatibility
 shortname: slurm
 timestamp: Fri, 04 Feb 2022 17:09:41 GMT

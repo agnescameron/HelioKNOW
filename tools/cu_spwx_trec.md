@@ -1,7 +1,4 @@
 ---
-University of Colorado Boulder Space Weather Technology Research and Education Center (CU SpWx TREC) Data Portal: University
-  of Colorado Boulder Space Weather Technology Research and Education Center (CU SpWx
-  TREC) Data Portal
 description: SWx TREC Space Weather Data Portal was deployed yesterday. The Space
   Weather Data Portal is a web application used to discover, display, download, save,
   and share a wide variety of space weather data, all on one screen. It includes data

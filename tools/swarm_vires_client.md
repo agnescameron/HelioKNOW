@@ -1,5 +1,4 @@
 ---
-Swarm viresclient: Swarm viresclient
 description: viresclient is a Python package which connects to a VirES server through
   the WPS interface and handles product requests and downloads. This enables easy
   access to ESA’s Swarm mission data and models.

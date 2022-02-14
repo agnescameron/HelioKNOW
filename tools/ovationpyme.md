@@ -1,5 +1,4 @@
 ---
-OvationPyme: OvationPyme
 description: 'A pure-python implementation of the Ovation Prime 2010 auroral precipitation
   model
 

@@ -1,5 +1,4 @@
 ---
-OCBpy: OCBpy
 description: 'OCBpy is a Python module that converts between AACGM coordinates and
   a magnetic coordinate system that adjusts latitude and local time relative to the
   Open Closed field line Boundary (OCB). This is particulary useful for statistical

@@ -1,5 +1,4 @@
 ---
-Kamodo: Kamodo
 description: Open-source python resource for model data access
 poc: Katherine Garcia-Sage
 shortname: kamodo

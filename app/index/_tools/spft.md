@@ -16,9 +16,8 @@ programmatic_access: 'yes'
 relationships_to_other_tools: Relationship to CDAWeb and OMNIWeb?
 shortname: spdf
 thumbnail_url: https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg
-timestamp: Fri, 11 Feb 2022 15:16:26 GMT
-title: NASA Space Physics Data Facility (SPDF)
-tool/software: NASA Space Physics Data Facility (SPDF)
+timestamp: Mon, 14 Feb 2022 15:14:38 GMT
+title: "NASA \nSpace Physics Data Facility (SPDF)"
 type: database
 uuid: d0f4a7ce-9732-40e9-8aac-30d816756bc0
 website_link: https://spdf.gsfc.nasa.gov/

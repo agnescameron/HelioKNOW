@@ -1,5 +1,4 @@
 ---
-NASA OMNIWeb: NASA OMNIWeb
 description: An interface built in 2008 to provide a more integrated interface to
   the many plasma, magnetic field and energetic particle data sets relevant to heliospheric
   studies and resident at Goddard's Space Physics Data Facility. It delivers users

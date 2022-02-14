@@ -1,5 +1,4 @@
 ---
-AuroraX: AuroraX
 description: Auroral data and tools for researchers and citizen scientists
 shortname: auroraX
 timestamp: Fri, 04 Feb 2022 17:07:24 GMT

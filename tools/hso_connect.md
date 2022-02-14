@@ -1,6 +1,4 @@
 ---
-HSO Connect Data and Modeling Resources Portal: HSO Connect Data and Modeling Resources
-  Portal
 description: Amr Alshatnawi summer 2021 GSFC internship project; Barbara Thompson
   the POC
 notes: 'Prototype '

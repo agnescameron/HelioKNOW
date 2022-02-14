@@ -1,5 +1,4 @@
 ---
-Voice Atlas: Voice Atlas
 description: natural language processing integration with Jupyter notebook
 shortname: voiceatlas
 timestamp: Fri, 04 Feb 2022 17:09:21 GMT

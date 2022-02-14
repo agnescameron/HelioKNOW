@@ -1,6 +1,4 @@
 ---
-Svalbard Integrated Arctic Earth Observational System (SIOS): Svalbard Integrated
-  Arctic Earth Observational System (SIOS)
 description: 'An international observing system for long-term measurements in and
   around the Norwegian archipelago of Svalbard addressing Earth System Science questions '
 notes: Focused specifically on Svalbard region

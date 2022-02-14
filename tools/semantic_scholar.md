@@ -1,5 +1,4 @@
 ---
-Semantic Scholar: Semantic Scholar
 description: A free, AI-powered research tool for scientific literature
 shortname: semantic_scholar
 timestamp: Fri, 04 Feb 2022 17:09:21 GMT

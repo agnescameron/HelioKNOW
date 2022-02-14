@@ -1,5 +1,4 @@
 ---
-Super Magnetometer Initiative: Super Magnetometer Initiative
 api_service: 'Details here: https://supermag.jhuapl.edu/mag/?fidelity=low&tab=api&start=2001-01-30T05%3A00%3A00.000Z&interval=23%3A59'
 description: 'SuperMAG is a worldwide collaboration of organizations and national
   agencies that currently operate more than 300 ground based magnetometers. SuperMAG

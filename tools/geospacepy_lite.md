@@ -7,7 +7,6 @@ description: 'Geospacepy-lite is a toolbox of loosely-related modules which were
 
   The dependacies of the package are limited to the core scientific python packages
   like the standard library, numpy, and matplotlib.'
-geospacepy-lite: geospacepy-lite
 poc: Liam Kilcommons
 shortname: geospacepy_lite
 timestamp: Fri, 04 Feb 2022 17:09:02 GMT

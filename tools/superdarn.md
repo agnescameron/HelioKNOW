@@ -1,5 +1,4 @@
 ---
-Super Dual Auroral Radar Network (SuperDARN): Super Dual Auroral Radar Network (SuperDARN)
 description: 'SuperDARN stands for Super Dual Auroral Radar Network. The network consists
   of more than 30 low-power HF radars that look into Earth''s upper atmosphere beginning
   at mid-latitudes and extending into the polar regions. The radars operate continuously

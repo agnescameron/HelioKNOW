@@ -1,5 +1,4 @@
 ---
-AWS Lambda: AWS Lambda
 description: AWS Lambda can be used to run serverless tasks from a notebook
 shortname: aws_lambda
 timestamp: Mon, 14 Feb 2022 15:56:27 GMT

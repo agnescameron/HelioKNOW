@@ -1,6 +1,5 @@
 ---
 description: The package automatically downloads data from the NASA OMNIWeb website
-nasaomnireader: nasaomnireader
 poc: Liam Kilcommons
 relationships_to_other_tools: Provides programmatic access to NASA OMNIWeb
 shortname: nasaomnireader

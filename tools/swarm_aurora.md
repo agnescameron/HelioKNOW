@@ -1,5 +1,4 @@
 ---
-Swarm Aurora: Swarm Aurora
 description: 'The Swarm-Aurora project was designed to facilitated and drive the use
   of Swarm in auroral science and push Swarm beyond its primary mission objective
   to become a key instrument in auroral science research. The primary objective of

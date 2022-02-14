@@ -1,5 +1,4 @@
 ---
-NASA Coordinated Data Analysis Web (CDAWeb): NASA Coordinated Data Analysis Web (CDAWeb)
 description: 'The NASA/GSFC Space Physics Data Facility (SPDF) bring you a new, World-Wide-Web-based
   system for viewing essentially ANY data produced in Common Data Format/CDF with
   the ISTP/IACG Guidelines. CDAWeb, the Coordinated Data Analysis (Workshop) Web,
