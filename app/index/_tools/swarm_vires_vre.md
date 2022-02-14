@@ -34,7 +34,8 @@ relationship_description: 'The VRE is an extension of VirES (Virtual environment
 
 
   Provides access to the eoPortal: https://eoportal.org/web/eoportal/home'
-relationships: swarm_vires
+relationships:
+- swarm_vires
 relationships_to_other_tools: 'The VRE is an extension of VirES (Virtual environments
   for Earth observation Scientists) - a server system and a graphical web interface
   to allow easy visualisation and manipulation of Swarm products (both data and geomagnetic

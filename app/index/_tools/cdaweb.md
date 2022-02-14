@@ -11,7 +11,8 @@ notes: 'A database compiling many observing platforms
 
   Programmatic access (through SPEDAS, pySPEDAS, pysatNASA, SunPy)'
 relationship_description: Visualization web service for virtually any SPDF data
-relationships: spdf
+relationships:
+- spdf
 relationships_to_other_tools: Visualization web service for virtually any SPDF data
 shortname: cdaweb
 thumbnail_url: https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg
