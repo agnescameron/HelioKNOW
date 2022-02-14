@@ -16,7 +16,6 @@ relationship_description: Relationship to CDAWeb and OMNIWeb
 relationships:
 - cdaweb
 - omniweb
-relationships_to_other_tools: Relationship to CDAWeb and OMNIWeb?
 shortname: spdf
 thumbnail_url: https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg
 timestamp: Mon, 14 Feb 2022 17:42:57 GMT

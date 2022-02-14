@@ -12,7 +12,6 @@ notes: 'A database compiling many observing platforms
 relationship_description: Visualization web service for virtually any SPDF data
 relationships:
 - spdf
-relationships_to_other_tools: Visualization web service for virtually any SPDF data
 shortname: cdaweb
 thumbnail_url: https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg
 timestamp: Mon, 14 Feb 2022 17:43:05 GMT

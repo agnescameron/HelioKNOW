@@ -4,7 +4,6 @@ programmatic_access: through pysatSpaceWeather
 relationship_description: Used by the CU SpWx TREC
 relationships:
 - cu_spwx_trec
-relationships_to_other_tools: Used by the CU SpWx TREC
 shortname: lasp
 timestamp: Mon, 14 Feb 2022 17:44:48 GMT
 title: Laboratory for Atmospheric Physics (LASP) Data Portal
