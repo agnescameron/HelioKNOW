@@ -70,7 +70,7 @@ To list a dataset that's in the index, use a relative link, e.g.
 [local dataset name](/datasets/dataset_shortname)
 ```
 
-Dataset shortnames can be found either by looking at the urls directly, or through the 'shortnames' column of the [Google Sheet](https://docs.google.com/spreadsheets/d/1bdyhGrj0oNz-_qW3Rv2GNGqhZZ73rgj-DYWePLA_1Ms/edit#gid=1389884911).
+Dataset shortnames can be found either by looking at the urls directly, or through the 'shortnames' column of the [Google Sheet](https://docs.google.com/spreadsheets/d/1LQKMaOQlC_flskr2-9Src7RFtMRPrICCk20qYX8X2OY/edit#gid=1389884911).
 
 
 ## Index

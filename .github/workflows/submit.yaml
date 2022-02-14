@@ -90,7 +90,7 @@ jobs:
       - name: iterate over pull request files
         id: changed_files
         env:
-          INPUT_SHEET_ID: '1bdyhGrj0oNz-_qW3Rv2GNGqhZZ73rgj-DYWePLA_1Ms'
+          INPUT_SHEET_ID: '1LQKMaOQlC_flskr2-9Src7RFtMRPrICCk20qYX8X2OY'
           INPUT_SHEET_TITLE: 'HelioKNOW_tools'
           INPUT_CREDS: ${{ secrets.GSHEET_CREDENTIALS }}
           INPUT_TEMPDIR: 'index_archive'
