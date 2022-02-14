@@ -21,14 +21,8 @@ You can use the search bar to explore the software and tools, or browse the <a h
 SimpleJekyllSearch({
 	searchInput: document.getElementById('searchInput'),
 	resultsContainer: document.getElementById('resultsContainer'),
-	json: '/searches/authors.json',
-	searchResultTemplate: '<li class="searchResult"><a href="{{ site.url }}{url}">{title}</a></li>',
-	templateMiddleware: function(prop, value, template) {
-		console.log(value)
-		if (prop === 'bar') {
-			return value.replace(/^\//, '')
-		}
-	}
+	json: '/searches/main.json',
+	searchResultTemplate: '<li class="searchResult"><a href="{{ site.url }}{url}">{title}</a></li>'
 })
 </script>
 
