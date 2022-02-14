@@ -103,8 +103,6 @@ def generate_markdown(data, directory):
 		if row["tags"] and row["tags"].strip():
 			record["tags"] = list(map(lambda tag: tag.strip(), row["tags"].split(',')))
 
-		record["description"] = row["description"].replace('\n', ' ')
-
 		update_frontmatter(record, filepath)
 
 	return new_files

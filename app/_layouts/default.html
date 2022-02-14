@@ -40,9 +40,19 @@
 								<b>location:</b> <a href='{{ page.website_link }}'>{{ page.website_link }}</a><br>
 						</p>
 						{% endif %}
-						{% if page.relationships_to_other_tools and page.relationships_to_other_tools != '' %}
+						{% if page.relationship_description and page.relationship_description != '' %}
 							<p>
-								<b>relationships to other tools:</b> {{ page.relationships_to_other_tools }}
+								<b>relationships to other tools:</b> {{ page.relationship_description }}
+							</p>
+						{% endif %}
+						{% if page.relationships and page.relationships.size > 0 %}
+							<p>
+								<b>related pages:</b>
+								<ul>
+									{% for relationship in page.relationships %}
+										<li><a href="">{{ relationship }}</a></li>
+									{% endfor %}
+								</ul>
 							</p>
 						{% endif %}
 						{% if page.terms_of_use and page.terms_of_use != '' %}
