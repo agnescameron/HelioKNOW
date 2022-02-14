@@ -5,7 +5,6 @@ poc: Liam Kilcommons
 relationship_description: Provides programmatic access to NASA OMNIWeb
 relationships:
 - omniweb
-relationships_to_other_tools: Provides programmatic access to NASA OMNIWeb
 shortname: nasaomnireader
 timestamp: Mon, 14 Feb 2022 17:47:06 GMT
 title: nasaomnireader
