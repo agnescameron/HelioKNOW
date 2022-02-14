@@ -42,6 +42,9 @@ def update_markdown(data, directory):
 						title = re.sub('\s+',' ',row["title"]).strip() # stop the titles breaking search
 						record["title"] = title
 
+					if row["relationships"] and row["relationships"].strip():
+						record["relationships"] = list(map(lambda tag: tag.strip(), row["relationships"].split(',')))
+
 					if row["tags"] and row["tags"].strip():
 						record["tags"] = list(map(lambda tag: tag.strip(), row["tags"].split(',')))
 
@@ -93,6 +96,9 @@ def generate_markdown(data, directory):
 		if row["title"] and row["title"].strip():
 			title = re.sub('\s+',' ',row["title"]).strip() # stop the titles breaking search
 			record["title"] = title
+
+		if row["relationships"] and row["relationships"].strip():
+			record["relationships"] = list(map(lambda tag: tag.strip(), row["relationships"].split(',')))
 
 		if row["tags"] and row["tags"].strip():
 			record["tags"] = list(map(lambda tag: tag.strip(), row["tags"].split(',')))
