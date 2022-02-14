@@ -73,4 +73,4 @@ d9da1d7e-7a22-4a2f-a698-84f6afc84c73,Semantic Scholar,semantic_scholar,https://w
 a7130f2d-1137-4230-8551-d9e5f691cd70,Slurm,slurm,https://github.com/PySlurm/pyslurm,,,HPC compatibility,,,,,,,,"Fri, 04 Feb 2022 17:09:41 GMT"
 f8fc988b-fc7c-41a7-abaa-4b7c7041e5b5,API Baker,api_baker,https://apibakery.com/,,?,turn a Jupyter notebook into an API,,,,,,,,"Fri, 04 Feb 2022 17:09:44 GMT"
 8340f07a-6914-4257-9e77-8bca1350e6ab,KanikAPI,kanik,?,,,build container images as a service,,,,,,,,"Fri, 04 Feb 2022 17:09:45 GMT"
-4965a1b8-11be-43e1-886d-d1eb831db276,AWS Lambda,aws_lambda,?,,,run serverless tasks from a notebook,,,,,,,,"Fri, 04 Feb 2022 17:09:45 GMT"
+4965a1b8-11be-43e1-886d-d1eb831db276,AWS Lambda,aws_lambda,?,,,AWS Lambda can be used to run serverless tasks from a notebook,,,,,,,,"Mon, 14 Feb 2022 15:56:27 GMT"
