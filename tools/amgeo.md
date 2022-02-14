@@ -11,6 +11,16 @@ description: "Collaborative data science tool for high-latitude geospace observa
 notes: Currently AMGeO is capable of ingesting SuperDARN and SuperMAG data. In future
   AMGeO software releases, AMGeO will be able to use other types of data, such as
   Iridium magnetic fields provided by the AMPERE program
+relationship_description: 'Provides access to SuperMAG and SuperDARN data and the
+  Assimilative Mapping of Ionospheric Electrodynamics (AMIE) model
+
+
+  Dependencies: geospacepy-lite; OvationPyme; apexpy
+
+
+  Data Dependencies: availability of SuperDARN and SuperMAG data for the selected
+  datetime'
+relationships: supermag, superdarn, ovationpyme, geospacepy_lite
 relationships_to_other_tools: 'Provides access to SuperMAG and SuperDARN data and
   the Assimilative Mapping of Ionospheric Electrodynamics (AMIE) model
 
@@ -21,7 +31,7 @@ relationships_to_other_tools: 'Provides access to SuperMAG and SuperDARN data an
   Data Dependencies: availability of SuperDARN and SuperMAG data for the selected
   datetime'
 shortname: amgeo
-timestamp: Fri, 11 Feb 2022 13:53:29 GMT
+timestamp: Mon, 14 Feb 2022 17:46:54 GMT
 title: AMGeO
 type: access tool
 uuid: 2611ac23-0c52-4495-8010-3392f25ec53f

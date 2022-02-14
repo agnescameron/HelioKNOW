@@ -4,6 +4,8 @@ description: The Python Satellite Data Analysis Toolkit (pysat) is a package pro
   and analyzing scientific measurements. Although pysat was initially designed for
   in situ satellite observations, it now supports many different types of ground-
   and space-based measurements.
+relationship_description: Provides access to many of the databases and services in
+  Heliophysics
 relationships_to_other_tools: Provides access to many of the databases and services
   in Heliophysics
 shortname: pysat
