@@ -8,8 +8,9 @@ description: 'The Swarm-Aurora project was designed to facilitated and drive the
   (ASIs).
 
   '
+relationships: swarm_vires
 shortname: swarm_aurora
-timestamp: Fri, 11 Feb 2022 14:16:33 GMT
+timestamp: Mon, 14 Feb 2022 17:44:11 GMT
 title: Swarm Aurora
 uuid: 820e4cbd-b6d4-49c0-9fe5-2ddcc061004c
 website_link: https://swarm-aurora.com/
