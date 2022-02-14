@@ -1,4 +1,5 @@
 ---
+Super Dual Auroral Radar Network (SuperDARN): Super Dual Auroral Radar Network (SuperDARN)
 description: 'SuperDARN stands for Super Dual Auroral Radar Network. The network consists
   of more than 30 low-power HF radars that look into Earth''s upper atmosphere beginning
   at mid-latitudes and extending into the polar regions. The radars operate continuously
@@ -13,12 +14,10 @@ description: 'SuperDARN stands for Super Dual Auroral Radar Network. The network
   community of scientists and engineers to operate radars and share data. The VT Group
   operates five radars. For a summary of the radars and their affiliations, visit
   the Radar Maps/Tables/Links web page. '
-notes: No programmatic access
 programmatic_access: No programmatic access
 shortname: superdarn
 timestamp: Fri, 11 Feb 2022 14:05:07 GMT
 title: Super Dual Auroral Radar Network (SuperDARN)
-tool/software: Super Dual Auroral Radar Network (SuperDARN)
 uuid: 08d4c604-fb54-450d-87a2-ca1229cbc37a
 website_link: http://vt.superdarn.org/tiki-index.php
 ---

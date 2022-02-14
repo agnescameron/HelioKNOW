@@ -1,5 +1,6 @@
 __pycache__/
 .env
+.rbenv-env
 *.pyc
 **/*.pyc
 .DS_Store

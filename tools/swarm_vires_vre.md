@@ -1,4 +1,5 @@
 ---
+Swarm VirES Virtual Research Environment: Swarm VirES Virtual Research Environment
 description: 'The VRE is a cloud service based on Jupyter technology to lower the
   barrier to entry for researchers to use Swarm products. We provide the hardware
   and the software stack so that you can start programming immediately without configuring
@@ -36,7 +37,6 @@ relationships_to_other_tools: 'The VRE is an extension of VirES (Virtual environ
 shortname: swarm_vires_vre
 timestamp: Fri, 11 Feb 2022 14:16:29 GMT
 title: Swarm VirES Virtual Research Environment
-tool/software: Swarm VirES Virtual Research Environment
 uuid: ebee087f-f2f4-4c84-95d9-674f2c70346f
 website_link: https://swarm.magneticearth.org/docs/vre-overview.html
 ---

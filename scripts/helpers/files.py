@@ -5,6 +5,7 @@ import frontmatter
 import json
 import io
 import random
+import re
 import os
 import csv
 
@@ -84,6 +85,11 @@ def generate_markdown(data, directory):
 			#check not empty null or blank
 			if row[term] and row[term].strip():
 				record[term] = row[term]
+
+
+		if row["title"] and row["title"].strip():
+			title = re.sub('\s+',' ',row["title"]).strip() # stop the titles breaking search
+			record[title] = title
 
 		if row["tags"] and row["tags"].strip():
 			record["tags"] = list(map(lambda tag: tag.strip(), row["tags"].split(',')))

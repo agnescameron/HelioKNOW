@@ -1,4 +1,5 @@
 ---
+OvationPyme: OvationPyme
 description: 'A pure-python implementation of the Ovation Prime 2010 auroral precipitation
   model
 
@@ -22,7 +23,6 @@ poc: Liam Kilcommons
 shortname: ovationpyme
 timestamp: Fri, 04 Feb 2022 17:09:13 GMT
 title: OvationPyme
-tool/software: OvationPyme
 uuid: ff12cbb2-fa28-4bbf-b988-047351a45ded
 website_link: https://github.com/lkilcommons/OvationPyme
 ---
