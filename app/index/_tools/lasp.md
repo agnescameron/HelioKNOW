@@ -1,6 +1,5 @@
 ---
 layout: default
-description: ''
 programmatic_access: through pysatSpaceWeather
 relationship_description: Used by the CU SpWx TREC
 relationships:

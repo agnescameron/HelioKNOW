@@ -1,7 +1,7 @@
 ---
 layout: default
 description: The package automatically downloads data from the NASA OMNIWeb website
-poc: Liam Kilcommons
+point_of_contact: Liam Kilcommons
 relationship_description: Provides programmatic access to NASA OMNIWeb
 relationships:
 - omniweb
