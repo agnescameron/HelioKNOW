@@ -1,8 +1,7 @@
 ---
-description: "AMPERE magnetic perturbation data and data products derived from the\
-  \ Iridium constellation are \nprovided via the AMPERE Science Data Center to the\
-  \ scientific community for basic research in space \nweather and magnetosphere-ionosphere\
-  \ physics."
+description: "AMPERE magnetic perturbation data and data products derived from the
+  Iridium constellation are \nprovided via the AMPERE Science Data Center to the scientific
+  community for basic research in space \nweather and magnetosphere-ionosphere physics."
 programmatic_access: No programmatic access
 record_last_updated: Fri, 11 Feb 2022 14:15:21 GMT
 shortname: ampere
