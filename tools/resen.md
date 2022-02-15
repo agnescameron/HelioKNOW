@@ -3,7 +3,7 @@ description: Tackles the problem of reproducible research code. It helps users c
   portable "buckets" containing the development environment, analysis code, and data
   (using Docker & JupyterLab). Resen comes pre-installed with community-developed
   software.
-poc: Asti Bhatt
+point_of_contact: Asti Bhatt
 shortname: resen
 timestamp: Fri, 11 Feb 2022 13:53:01 GMT
 title: REproducable Software ENvironment (Resen)

@@ -50,47 +50,25 @@
 								<b>related pages:</b>
 								<ul>
 									{% for relationship in page.relationships %}
-										<li><a href="">{{ relationship }}</a></li>
+										<li><a href="{{ site.url }}{{ relationship }}">{{ relationship }}</a></li>
 									{% endfor %}
 								</ul>
 							</p>
 						{% endif %}
-						{% if page.terms_of_use and page.terms_of_use != '' %}
-							<p>
-								<b>license:</b> {{ page.terms_of_use }}
-							</p>
-						{% endif %}
-						{% if page.tags and page.tags.size > 0 %}
-							<p>
-								<b>tags:</b> {{ page.tags | join: ", " }}
-							</p>
-						{% endif %}
-						{% if page.documentation and page.documentation != '' %}
-							<p id="documentation" data-value="{{ page.documentation }}">
-								<b>documentation:</b> {{ page.documentation }}
-							</p>
-						{% endif %}
-						{% if page.poc and page.poc != '' %}
-							<p>
-								<b>point of contact:</b> {{ page.poc }}
-							</p>
-						{% endif %}
-						{% if page.citation and page.citation != '' %}
-							<p>
-								<b>doi:</b> {{ page.citation }}
-							</p>
-						{% endif %}
-						{% if page.type and page.type != '' %}
-							<p>
-								<b>type:</b> {{ page.type }}
-							</p>
-						{% endif %}
+
+						{% assign DISPLAY_FIELDS = "terms_of_use, documentation, point_of_contact, citation, description" | split: ', ' %}
+
+						{% for field in page %}
+							{% if DISPLAY_FIELDS contains field %}
+								<p><b>{{ field | split: "_" | join: " " }}:</b> {{ page[field] }} </p>
+							{% endif %}
+						{% endfor %}
+
 						{% if page.timestamp and page.timestamp != '' %}
 							<p>
 								<b>record last updated:</b> {{ page.timestamp }}
 							</p>
 						{% endif %}
-							<p><b>description:</b> {{ page.description }}</p>
 				</div>
 				<div class="pageContent">
 						{% if page.notes and page.notes != '' %}

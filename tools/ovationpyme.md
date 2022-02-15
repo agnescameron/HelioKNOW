@@ -18,7 +18,7 @@ description: 'A pure-python implementation of the Ovation Prime 2010 auroral pre
   owned by ExelisVis) version released in an open source format on Sourceforge by
   Janet Machol, Rob Redmon and Nathan Case of NOAA National Center for Environmental
   Information (NCEI)'
-poc: Liam Kilcommons
+point_of_contact: Liam Kilcommons
 shortname: ovationpyme
 timestamp: Fri, 04 Feb 2022 17:09:13 GMT
 title: OvationPyme

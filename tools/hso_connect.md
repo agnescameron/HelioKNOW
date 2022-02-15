@@ -2,7 +2,7 @@
 description: Amr Alshatnawi summer 2021 GSFC internship project; Barbara Thompson
   the POC
 notes: 'Prototype '
-poc: Barbara Thompson
+point_of_contact: Barbara Thompson
 shortname: hso_connect
 timestamp: Fri, 11 Feb 2022 13:53:13 GMT
 title: HSO Connect Data and Modeling Resources Portal
