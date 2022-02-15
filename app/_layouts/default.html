@@ -50,7 +50,7 @@
 								<b>related pages:</b>
 								<ul>
 									{% for relationship in page.relationships %}
-										<li><a href="{{ site.url }}{{ relationship }}">{{ relationship }}</a></li>
+										<li><a href="{{ site.baseurl }}{{ relationship }}">{{ relationship }}</a></li>
 									{% endfor %}
 								</ul>
 							</p>
