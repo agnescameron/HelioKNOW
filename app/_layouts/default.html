@@ -56,19 +56,13 @@
 							</p>
 						{% endif %}
 
-						{% assign DISPLAY_FIELDS = "terms_of_use, documentation, point_of_contact, citation, description" | split: ', ' %}
+						{% assign DISPLAY_FIELDS = "terms_of_use, documentation, point_of_contact, citation, description, record_last_updated" | split: ', ' %}
 
 						{% for field in page %}
 							{% if DISPLAY_FIELDS contains field %}
 								<p><b>{{ field | split: "_" | join: " " }}:</b> {{ page[field] }} </p>
 							{% endif %}
 						{% endfor %}
-
-						{% if page.timestamp and page.timestamp != '' %}
-							<p>
-								<b>record last updated:</b> {{ page.timestamp }}
-							</p>
-						{% endif %}
 				</div>
 				<div class="pageContent">
 						{% if page.notes and page.notes != '' %}
