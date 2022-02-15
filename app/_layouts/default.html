@@ -60,7 +60,7 @@
 
 						{% for field in page %}
 							{% if DISPLAY_FIELDS contains field %}
-								<p><b>{{ field | split: "_" | join: " " }}:</b> {{ page[field] }} </p>
+								<p id="{{ field }}" data-value="{{ page[field] }}" ><b>{{ field | split: "_" | join: " " }}:</b> {{ page[field] }} </p>
 							{% endif %}
 						{% endfor %}
 				</div>
