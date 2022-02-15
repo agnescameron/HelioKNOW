@@ -13,7 +13,7 @@ notes: 'A database compiling many observing platforms
 
   '
 programmatic_access: 'yes'
-record_last_updated: Mon, 14 Feb 2022 17:42:57 GMT
+record_last_updated: Tue, 15 Feb 2022 11:11:15 GMT
 relationship_description: Relationship to CDAWeb and OMNIWeb
 relationships:
 - cdaweb
