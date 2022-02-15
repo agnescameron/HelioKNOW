@@ -1,7 +1,7 @@
 ---
 layout: default
 description: Open-source python resource for model data access
-poc: Katherine Garcia-Sage
+point_of_contact: Katherine Garcia-Sage
 shortname: kamodo
 timestamp: Mon, 14 Feb 2022 17:29:48 GMT
 title: Kamodo

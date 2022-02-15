@@ -6,7 +6,7 @@ description: 'OCBpy is a Python module that converts between AACGM coordinates a
   studies of the poles, where gridding relative to a fixed magnetic coordinate system
   would cause averaging of different physical regions, such as auroral and polar cap
   measurements. '
-poc: Angeline Burrell
+point_of_contact: Angeline Burrell
 shortname: ocbpy
 timestamp: Fri, 04 Feb 2022 17:09:36 GMT
 title: OCBpy
