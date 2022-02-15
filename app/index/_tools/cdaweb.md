@@ -10,12 +10,12 @@ notes: 'A database compiling many observing platforms
 
 
   Programmatic access (through SPEDAS, pySPEDAS, pysatNASA, SunPy)'
+record_last_updated: Mon, 14 Feb 2022 17:43:05 GMT
 relationship_description: Visualization web service for virtually any SPDF data
 relationships:
 - spdf
 shortname: cdaweb
 thumbnail_url: https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg
-timestamp: Mon, 14 Feb 2022 17:43:05 GMT
 title: NASA Coordinated Data Analysis Web (CDAWeb)
 type: database
 uuid: ecb85a68-c795-4129-bdc2-c409dbda0412

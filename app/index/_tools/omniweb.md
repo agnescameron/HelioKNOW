@@ -9,12 +9,12 @@ notes: 'A database compiling many observing platforms
 
   '
 programmatic_access: through nano
+record_last_updated: Mon, 14 Feb 2022 17:43:02 GMT
 relationship_description: Visualization web service for solar wind SPDF data
 relationships:
 - spdf
 shortname: omniweb
 thumbnail_url: https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg
-timestamp: Mon, 14 Feb 2022 17:43:02 GMT
 title: NASA OMNIWeb
 type: database
 uuid: 5ed71d7c-d4b6-4a05-8efd-20607b45b256

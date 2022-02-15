@@ -7,8 +7,8 @@ description: 'OCBpy is a Python module that converts between AACGM coordinates a
   would cause averaging of different physical regions, such as auroral and polar cap
   measurements. '
 point_of_contact: Angeline Burrell
+record_last_updated: Fri, 04 Feb 2022 17:09:36 GMT
 shortname: ocbpy
-timestamp: Fri, 04 Feb 2022 17:09:36 GMT
 title: OCBpy
 uuid: 564e2c4c-d23e-4a7f-b06d-63f6db6165cd
 website_link: https://github.com/aburrell/ocbpy
