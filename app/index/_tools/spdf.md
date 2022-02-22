@@ -14,6 +14,7 @@ notes: 'A database compiling many observing platforms
   '
 programmatic_access: 'yes'
 record_last_updated: Tue, 15 Feb 2022 11:11:15 GMT
+related_project_shortnames: cdaweb, omniweb
 relationship_description: Relationship to CDAWeb and OMNIWeb
 relationships:
 - cdaweb

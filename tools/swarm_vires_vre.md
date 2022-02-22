@@ -23,6 +23,7 @@ notes: 'Do research with the swarm viresclient tool (viresclient is a Python pac
   '
 programmatic_access: swarm viresclient tool
 record_last_updated: Mon, 14 Feb 2022 17:43:59 GMT
+related_project_shortnames: swarm_vires
 relationship_description: 'The VRE is an extension of VirES (Virtual environments
   for Earth observation Scientists) - a server system and a graphical web interface
   to allow easy visualisation and manipulation of Swarm products (both data and geomagnetic

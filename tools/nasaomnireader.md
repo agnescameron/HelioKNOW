@@ -2,6 +2,7 @@
 description: The package automatically downloads data from the NASA OMNIWeb website
 point_of_contact: Liam Kilcommons
 record_last_updated: Mon, 14 Feb 2022 17:47:06 GMT
+related_project_shortnames: omniweb
 relationship_description: Provides programmatic access to NASA OMNIWeb
 relationships:
 - omniweb

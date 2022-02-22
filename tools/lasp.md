@@ -1,6 +1,7 @@
 ---
 programmatic_access: through pysatSpaceWeather
 record_last_updated: Mon, 14 Feb 2022 17:44:48 GMT
+related_project_shortnames: cu_spwx_trec
 relationship_description: Used by the CU SpWx TREC
 relationships:
 - cu_spwx_trec
