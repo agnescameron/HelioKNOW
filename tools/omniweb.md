@@ -9,6 +9,7 @@ notes: 'A database compiling many observing platforms
   '
 programmatic_access: through nano
 record_last_updated: Mon, 14 Feb 2022 17:43:02 GMT
+related_project_shortnames: spdf
 relationship_description: Visualization web service for solar wind SPDF data
 relationships:
 - spdf

@@ -8,6 +8,7 @@ description: 'The Swarm-Aurora project was designed to facilitated and drive the
 
   '
 record_last_updated: Mon, 14 Feb 2022 17:44:11 GMT
+related_project_shortnames: swarm_vires
 relationships:
 - swarm_vires
 shortname: swarm_aurora
