@@ -9,7 +9,6 @@
 var SHEETNAMES = ["Tools"] // change names!
 var ID_COLUMN = 1;
 var ID_LENGTH = 10;
-var TIMESTAMP_COL;
 
 // Thanks to Tom Spencer for this function
 // Tom's website/blog is at fiznool.com
@@ -17,12 +16,7 @@ function generateUID () {
   return Utilities.getUuid();
 }
 
-function onEdit(evt) {
-  var range = evt.range;
-  var sheet = range.getSheet();
-  console.log(sheet.getSheetName())
-  if(!SHEETNAMES.includes(sheet.getSheetName()) ) return;
-  if(sheet.getSheetName() === "Tools") TIMESTAMP_COL = 15 // change name and timestamp cols!
+function addMetadata(sheet, range, TIMESTAMP_COL) {
   var rangeValues = range.getValues();
 
   rangeValues.forEach(function(row,index,arr){
@@ -46,4 +40,13 @@ function onEdit(evt) {
     }
   });
   
+}
+
+function onEdit(evt) {
+  var range = evt.range;
+  var sheet = range.getSheet();
+  var TIMESTAMP_COL = 17;
+
+  if(!SHEETNAMES.includes(sheet.getSheetName()) ) return;
+  if(sheet.getSheetName() === "Tools") addMetadata(sheet, range, TIMESTAMP_COL); // change name and timestamp cols!
 }
