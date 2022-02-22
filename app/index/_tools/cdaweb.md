@@ -11,6 +11,7 @@ notes: 'A database compiling many observing platforms
 
   Programmatic access (through SPEDAS, pySPEDAS, pysatNASA, SunPy)'
 record_last_updated: Mon, 14 Feb 2022 17:43:05 GMT
+related_project_shortnames: spdf
 relationship_description: Visualization web service for virtually any SPDF data
 relationships:
 - spdf

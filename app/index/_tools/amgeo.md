@@ -13,6 +13,7 @@ notes: Currently AMGeO is capable of ingesting SuperDARN and SuperMAG data. In f
   AMGeO software releases, AMGeO will be able to use other types of data, such as
   Iridium magnetic fields provided by the AMPERE program
 record_last_updated: Mon, 14 Feb 2022 17:46:54 GMT
+related_project_shortnames: supermag, superdarn, ovationpyme, geospacepy_lite
 relationship_description: 'Provides access to SuperMAG and SuperDARN data and the
   Assimilative Mapping of Ionospheric Electrodynamics (AMIE) model
 
